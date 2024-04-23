@@ -1,0 +1,6 @@
+ultralytics
+onnx
+onnxruntime
+opencv-python
+torch
+torchvision
